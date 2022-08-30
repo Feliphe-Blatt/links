@@ -31,9 +31,7 @@ main {
 }
 
 #cabecalho {
-    position: absolute;
-    top: 0;
-    margin: 2vh;
+    margin: 3vh auto;
 }
 
 #corpo {
@@ -48,6 +46,8 @@ main {
 
 .frame-link-imagem {
     margin-top: 2vh;
+    background-color: rgba(0, 0, 0, .2);
+    border-radius: 5px;
 }
 
 #imagem-principal {
