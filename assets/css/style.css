@@ -21,7 +21,7 @@ main {
     justify-content: space-evenly;
     align-items: center;
     position: fixed;
-    height: 97vh;
+    height: 90vh;
     width: 90vw;
     max-width: 600px;
     background-image: radial-gradient(transparent,transparent,rgba(0,0,0,.6));
@@ -46,7 +46,6 @@ main {
 }
 
 .frame-link-imagem {
-    margin-top: 2vh;
     background-color: rgba(0, 0, 0, .2);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, .6);
@@ -92,7 +91,7 @@ main {
     margin: 1vh;
 }
 
-@media (max-height: 560px) {
+@media (max-height: 750px) {
     #links {
         display: grid;
         grid-template-columns: 1fr 1fr;
