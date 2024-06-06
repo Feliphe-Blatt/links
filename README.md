@@ -4,7 +4,7 @@
 
 - Link [aqui](https://feliphe-blatt.github.io/links/)
 
-<img src="https://github.com/Feliphe-Blatt/portfolio/blob/9297979613e415f0b34571274871abdb719cf037/assets/img/link-mobile.png" id="desktop" title="Preview Versão Desktop" alt="Preview Versão Desktop do Site" width="20%">
+<img src="https://github.com/Feliphe-Blatt/portfolio/blob/9297979613e415f0b34571274871abdb719cf037/assets/img/link-mobile.png" title="Preview Versão Mobile" alt="Preview Versão Mobile" width="20%">
   
 ## Tecnologias Utilizadas
 
